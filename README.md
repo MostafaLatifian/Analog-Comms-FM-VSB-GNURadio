@@ -46,9 +46,9 @@ The performance of both FM and VSB systems was rigorously evaluated based on the
 | :--- | :--- |
 | `FM.grc` | The core GNU Radio Companion flowgraph file for the FM system. |
 | `FM.py` | Python execution code generated from `FM.grc`. |
-| `VSB.grc` (or similar) | The core GNU Radio Companion flowgraph file for the VSB system. |
-| `VSB.py` (or similar) | Python execution code generated from the VSB flowgraph. |
-| `default.py` | Ancillary Python script (possibly for a base signal test or VSB implementation). |
+| `VSB.grc` | The core GNU Radio Companion flowgraph file for the VSB system. |
+| `VSB.py` | Python execution code generated from the VSB flowgraph. |
+| `default.py` | Ancillary Python script. |
 | `MostafaLatifian-40122193(ComsysProject).pdf` | **The Final Project Report**, including block designs, simulation outputs, and quantitative analysis (SNR/PSD). |
 
 ***
